@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1550943739 source:d:\coding\work\lab2\main.cpp
+	<iostream>
+	"lib.h"
+
+1550943541 d:\coding\work\lab2\lib.h
+
+1550941164 d:\coding\work\lab2\lib.cpp
+	"lib.h"
+
+1550943667 source:d:\coding\work\lab2\lib.cpp
+	"lib.h"
+	<math.h>
+
