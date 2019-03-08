@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552052003 source:d:\coding\work\lab3\lib.cpp
+	<set>
+	"lib.h"
+
+1552051991 d:\coding\work\lab3\lib.h
+	<set>
+	<algorithm>
+	<iostream>
+
+1552051042 source:d:\coding\work\lab3\main.cpp
+	<iostream>
+	"lib.h"
+
