@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554487054 source:d:\coding\work\lab5\main.cpp
+	<iostream>
+	"section.h"
+	"trapezoid.h"
+
+1554487095 d:\coding\work\lab5\interfaces.h
+	<math.h>
+
+1554487110 d:\coding\work\lab5\section.h
+	"interfaces.h"
+
+1554487179 d:\coding\work\lab5\trapezoid.h
+	<math.h>
+
