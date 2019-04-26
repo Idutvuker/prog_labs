@@ -1,7 +1,7 @@
 #pragma once
 #include "interfaces.h"
 
-class Section : public IGeoFig, public IPhysObject, public IPrintable, public IDialogInitiable, public BaseCObject
+class Section : public Object
 {
 private:
 	CVector2D beg;

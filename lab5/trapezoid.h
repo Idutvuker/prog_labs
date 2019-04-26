@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Trapezoid : public IGeoFig, public IPhysObject, public IPrintable, public IDialogInitiable, public BaseCObject
+class Trapezoid : public Object
 {
 private:
 	double height;
