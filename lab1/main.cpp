@@ -66,9 +66,11 @@ void mul(matrix *m, float f) //15
 		m->mat[i/3][i%3] *= f;
 }
 
+
+
 int main()
 {
-	float a = 5;
+	/*float a = 5;
 	cout << a << ' ';
     add(a, 4);
     cout << a << ' ';
@@ -99,7 +101,7 @@ int main()
     m.print();
 
     mul(&m, 2);
-    m.print();
+    m.print();*/
 
 
 	return 0;

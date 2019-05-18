@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558118973 source:d:\coding\work\lab10\myiterator.cpp
+
+1558173931 source:d:\coding\work\lab10\main.cpp
+	<iostream>
+	"BTS.h"
+
+1558173910 d:\coding\work\lab10\bts.h
+	<functional>
+	"MyIterator.h"
+
+1558173552 d:\coding\work\lab10\myiterator.h
+	"BTS.h"
+
